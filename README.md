@@ -50,11 +50,10 @@ Successfully developed a fully functional ATM system with:
 LinkedIn Post :
 https://www.linkedin.com/feed/update/urn:li:activity:7416840580518957056/
 
-### 👨‍💻 Developer
-Divya S 
-Oasis Infobyte Java Development Intern
+Developer : 
+Divya S, Oasis Infobyte Java Development Intern
 
-### 📧 Contact
+Contact : 
 - Email: aish.divya.sp_bcs27@mepcoeng.ac.in
 - LinkedIn: https://www.linkedin.com/in/divya-s-70aa10374/
   
